@@ -1,0 +1,16 @@
+{
+  "name": "sitepurple",
+  "version": "0.1.0",
+  "description": "A Tailwind CSS component library.",
+  "main": "src/index.css",
+  "style": "src/index.css",
+  "files": [
+    "src"
+  ],
+  "author": "gufo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gufodotdev"
+  },
+  "license": "MIT"
+}
